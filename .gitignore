@@ -1,0 +1,10 @@
+.DS_Store
+target/
+.idea/
+*.iml
+*.swp
+.classpath
+.project
+.settings
+*~
+src/main/resources/*.properties
